@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HF-ABIR
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
